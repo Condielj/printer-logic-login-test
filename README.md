@@ -1,2 +1,6 @@
 # printer-logic-login-test
-Repository for the tests made for the the SAAS login for the QA Engineering Internship opportunity.
+
+!!! MADE FOR CHROME VERSION 80
+If another version of chrome is being used just put the chromedriver.exe for that version in the same folder as the python file
+
+Thank you!
